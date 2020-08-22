@@ -1,0 +1,30 @@
+{
+  "name": "kanji-quizzer",
+  "version": "0.0.1",
+  "description": "Kanji quizzer",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejagoda/kanji-quizzer.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "dj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davejagoda/kanji-quizzer/issues"
+  },
+  "homepage": "https://github.com/davejagoda/kanji-quizzer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
